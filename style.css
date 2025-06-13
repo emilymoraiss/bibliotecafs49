@@ -1,0 +1,7 @@
+.header {
+    background-color: black url(bolacha.jpg);
+    background-size: cover;
+    padding: 10px;
+    color: rgb(93, 176, 248);
+    height: 200px;
+}
